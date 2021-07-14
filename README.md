@@ -1,0 +1,1 @@
+This app helps schizophrenia patients to manage their schedule and have a better health care by themselves.
